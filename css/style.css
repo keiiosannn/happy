@@ -1,0 +1,15 @@
+#mainImage {
+    width: 300px; /* Устанавливает ширину 150 пикселей */
+    max-width: 300px; /* Максимальная ширина 300 пикселей */
+    height: auto; /* Сохраняет пропорции */
+}
+
+.kk {
+    color: black;
+
+}
+.kk-1 {
+    color: black;
+    font-size: 15px;
+
+}
